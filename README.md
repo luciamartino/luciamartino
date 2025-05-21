@@ -1,4 +1,4 @@
-## Hi there 👋
+## this is my virtual world
 
 <!--
 **luciamartino/luciamartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ currently enrolled in a fullstack 💥 course 
+
+⚡ meant to be a back-end 💢 developer 
+
+>doomed to learn these bad guys:
+
+    🍀 HTML 
+    🍀 CSS
+    🍀 JavaScript
+    ☘️ React 
+
+>destined to master:
+
+    🌱 python 
+    🌱 java 
