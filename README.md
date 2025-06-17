@@ -24,7 +24,8 @@ Here are some ideas to get you started:
     🍀 HTML 
     🍀 CSS
     🍀 JavaScript
-    ☘️ React 
+    🍀 React
+    ☘️ TypeScript 
 
 >destined to master:
 
